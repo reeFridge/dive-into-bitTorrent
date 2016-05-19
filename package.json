@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/reeFridge/dive-into-bitTorrent/issues"
   },
-  "homepage": "https://github.com/reeFridge/dive-into-bitTorrent#readme"
+  "homepage": "https://github.com/reeFridge/dive-into-bitTorrent#readme",
+  "dependencies": {
+    "nt": "^0.5.1"
+  }
 }
