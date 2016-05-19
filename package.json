@@ -1,0 +1,24 @@
+{
+  "name": "dive-into-bittorrent",
+  "version": "0.0.0",
+  "description": "Useful cases of working with bitTorrent technology via node.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reeFridge/dive-into-bitTorrent.git"
+  },
+  "keywords": [
+    "bitTorrent",
+    "node",
+    "node-torrent"
+  ],
+  "author": "reeFridge",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reeFridge/dive-into-bitTorrent/issues"
+  },
+  "homepage": "https://github.com/reeFridge/dive-into-bitTorrent#readme"
+}
